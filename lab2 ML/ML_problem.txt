@@ -1,0 +1,1 @@
+the dataset contains a regression problem and a target variable that is the price of the car, the model expected to learn the relationship between the car features and predict the price, that type of data helps understanding how the attribute of each car influence the price
