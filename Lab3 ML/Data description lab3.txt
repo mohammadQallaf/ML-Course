@@ -1,0 +1,34 @@
+Data description 
+The dataset used in this analysis is about Toyota cars. It contains information about different Toyota models and their technical specifications and prices.
+
+The dataset includes the following columns:
+
+model : The name of the car model.
+
+price : The price of the car.
+
+dimensions : The overall size/dimensions of the car.
+
+wheelbase : The distance between the front and rear wheels.
+
+seats : Number of seats in the car.
+
+engine_type : Type of engine used in the car.
+
+engine_displacement : Engine size (usually measured in liters or cc).
+
+max_output : Maximum engine power output.
+
+max_torque : Maximum torque produced by the engine.
+
+fuel : Type of fuel used (e.g., petrol, diesel, hybrid).
+
+power_transmission : Transmission type (e.g., automatic or manual).
+
+brake : Type of braking system.
+
+tires : Tire specifications.
+
+wheels_size : Size of the wheels.
+
+This dataset contains both numerical variables (like price, engine displacement,max_output) and categorical variables (like model, engine_type,etc.), making it suitable for data analysis and predictive modeling.
